@@ -3,7 +3,7 @@ body {
   background: #008080;
   color: #fff;
   font-family: Helvetica, Arial;
-  font-size: 27px;
+  font-size: 32px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -57,7 +57,7 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 13px;
   margin: 15px 4%;
 }
